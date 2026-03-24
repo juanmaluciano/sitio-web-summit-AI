@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Summit AI Landing Page",
   "scripts": {
-    "start": "serve ."
+    "dev": "serve ."
   },
   "dependencies": {
     "@vercel/postgres": "^0.8.0",
